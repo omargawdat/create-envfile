@@ -87,6 +87,7 @@ It will get stored as a single line in the '.env' file. This line will start and
 end with a `"` character, and will contain `\n` characters to represent the
 newlines:
 
+
 ```sh
 PRIVATE_KEY="-----BEGIN RSA PRIVATE KEY-----\nKh9NV...\n-----END RSA PRIVATE KEY-----\n"
 ```
